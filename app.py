@@ -4,10 +4,10 @@ import numpy as np
 
 # Load models
 models = {
-    "Model 1": "model_1.pkl",
-    "Model 2": "model_2.pkl",
-    "Model 3": "model_3.pkl",
-    "Model 4": "model_4.pkl"
+    "XGBoost": "model_1.pkl",
+    "Linear Regression": "model_2.pkl",
+    "Random Forest": "model_3.pkl",
+    "Decision Tree": "model_4.pkl"
 }
 
 def load_model(model_path):
