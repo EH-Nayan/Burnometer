@@ -7,7 +7,7 @@ models = {
     "Model 1": "model1.pkl",
     "Model 2": "model2.pkl",
     "Model 3": "model3.pkl",
-    "Model 4": "model4.pkl"
+    # "Model 4": "model4.pkl"
 }
 
 def load_model(model_path):
