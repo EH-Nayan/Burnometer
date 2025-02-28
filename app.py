@@ -6,8 +6,8 @@ import numpy as np
 models = {
     "XGBoost": "model_1.pkl",
     "Linear Regression": "model_2.pkl",
-    "Random Forest": "model_3.pkl",
-    "Decision Tree": "model_4.pkl"
+    "Decision Tree": "model_3.pkl",
+    "Random Forest": "model_4.pkl"
 }
 
 def load_model(model_path):
